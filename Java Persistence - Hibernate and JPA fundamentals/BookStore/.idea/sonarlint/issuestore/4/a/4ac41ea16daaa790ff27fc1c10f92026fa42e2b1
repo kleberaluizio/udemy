@@ -1,0 +1,11 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ª¥ÚŞ8æ£á’ç1
+L	java:S106#"+Replace this use of System.out by a logger.(ô™ùÿÿÿÿ8æßà’ç1
+V
+java:S1128"9Remove this unused import 'com.bookstore.entity.Chapter'.(‚‹§î8è£á’ç1
+]
+java:S1128";Remove this unused import 'com.bookstore.entity.Publisher'.(Ï¦µüÿÿÿÿ8é£á’ç1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8é£á’ç1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8é£á’ç1

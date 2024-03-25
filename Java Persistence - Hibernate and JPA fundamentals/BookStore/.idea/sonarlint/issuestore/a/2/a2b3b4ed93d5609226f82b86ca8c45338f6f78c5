@@ -1,13 +1,4 @@
 
-l
-java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(«£ªó8šùíß1
-q
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ËÀµÀûÿÿÿÿ8›ùíß1
-l
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(«£ªó8˜ùíß1
-O
-java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8Äûƒ‘ß1
-S
-java:S6437"6Revoke and change this password, as it is compromised.(ûÂÔ¥8û’æß1
-M
-java:S1172B"+Remove this unused method parameter "book".(‰Š‰àùÿÿÿÿ8ƒ“æß1
+h	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒºÕ’ç1
+T
+java:S6437£"6Revoke and change this password, as it is compromised.(ûÂÔ¥8¤ºÕ’ç1
